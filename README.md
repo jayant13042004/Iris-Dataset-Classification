@@ -1,7 +1,7 @@
 # Iris Data Classification
 
 ## Description
-This project classifies iris flowers into three species based on their features using the Iris dataset. The focus is on data preprocessing, exploratory data analysis, and applying classification algorithms.
+Using the Iris dataset, this project classifies iris flowers into three species based on their features. The focus is on data preprocessing, exploratory data analysis, and applying classification algorithms.
 
 ## Features
 - **Classification**: Predict the species of iris flowers.
@@ -17,4 +17,3 @@ This project classifies iris flowers into three species based on their features 
   - `seaborn` for statistical data visualization.
 - **Algorithms**:
   - **K-Nearest Neighbors (KNN)**
-  - **Logistic Regression**
